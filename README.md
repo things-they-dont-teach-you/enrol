@@ -4,6 +4,15 @@ Free courses on the practical things school skipped: tax, money, politics, healt
 An AI assistant asks what you need, downloads only the courses that apply to you and your
 country, then tutors you through them.
 
+> [!WARNING]
+> **Under development. Do not rely on these courses yet.** They have not been reviewed by
+> qualified professionals and may contain mistakes.
+>
+> **Are you a tax practitioner, financial adviser, dietitian, doctor or other professional?**
+> We're looking for people to review lessons in their field.
+> [Offer to review](https://github.com/things-they-dont-teach-you/enrol/issues/new?template=volunteer-reviewer.yml)
+> or use the [contact form](https://things-they-dont-teach-you.github.io/#contact).
+
 ## Start
 
 You need [git](https://git-scm.com/downloads) and an AI command-line tool, such as
@@ -41,4 +50,5 @@ legal, financial or medical advice. Rules change; check the official source befo
 
 ## Missing a course?
 
-Ask for it in [issues](https://github.com/things-they-dont-teach-you/enrol/issues).
+[Request a course](https://github.com/things-they-dont-teach-you/enrol/issues/new?template=request-course.yml),
+or [build one](https://github.com/things-they-dont-teach-you/staff-room).

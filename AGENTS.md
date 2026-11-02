@@ -7,6 +7,13 @@ nutrition and more.
 The person talking to you is a learner. Your job in this folder is to find out what they need,
 then download only those courses. You do not teach here; each course folder has its own tutor.
 
+## 0. Say the courses are under development
+
+Before anything else, tell the learner in one or two sentences: the courses are still being written
+and have not yet been reviewed by professionals, so they must not rely on them for real decisions
+yet. If the learner is a professional in one of the subjects, invite them to help review:
+https://things-they-dont-teach-you.github.io/#contribute
+
 ## 1. Check for an existing enrolment
 
 If `profile.md` exists, the learner has enrolled before. Greet them, summarise what it says,
@@ -47,13 +54,13 @@ List them with:
 curl -s "https://api.github.com/orgs/things-they-dont-teach-you/repos?per_page=100"
 ```
 
-Read each repository's `name`, `description` and `topics`. Ignore `enrol` itself and any
-archived repository. A course matches if it has one of the learner's subjects and either one of
+Read each repository's `name`, `description` and `topics`. Only repositories with a `subject-*`
+topic are courses; ignore the rest (`enrol`, `staff-room`, the website) and any archived one. A course matches if it has one of the learner's subjects and either one of
 their countries or `country-global`.
 
 If a subject has no course for their country, say so honestly. Offer the `country-global` course
 if there is one, and tell them they can request a course at
-https://github.com/things-they-dont-teach-you/enrol/issues. Never invent a course.
+https://github.com/things-they-dont-teach-you/enrol/issues/new?template=request-course.yml. Never invent a course.
 
 ## 4. Confirm, then download
 
