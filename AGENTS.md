@@ -55,7 +55,10 @@ curl -s "https://api.github.com/orgs/things-they-dont-teach-you/repos?per_page=1
 ```
 
 Read each repository's `name`, `description` and `topics`. Only repositories with a `subject-*`
-topic are courses; ignore the rest (`enrol`, `staff-room`, the website) and any archived one. A course matches if it has one of the learner's subjects and either one of
+topic are courses; ignore the rest (`enrol`, `staff-room`, the website) and any archived one.
+A course that also has the topic `planned` is not written yet: never download it or teach it as
+if it existed. If it is the one the learner wants, give them its link so they can ask for it or
+help write it. A course matches if it has one of the learner's subjects and either one of
 their countries or `country-global`.
 
 If a subject has no course for their country, say so honestly. Offer the `country-global` course
