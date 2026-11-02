@@ -13,9 +13,22 @@ country, then tutors you through them.
 > [Offer to review](https://github.com/things-they-dont-teach-you/enrol/issues/new?template=volunteer-reviewer.yml)
 > or use the [contact form](https://things-they-dont-teach-you.github.io/#contact).
 
-## Start
+## Easiest start: any AI chat app
 
-You need [git](https://git-scm.com/downloads) and an AI command-line tool, such as
+No downloads needed. Paste this into Claude, ChatGPT, Gemini or a similar app, on your phone or
+computer:
+
+```
+Be my tutor. Please read https://things-they-dont-teach-you.github.io/start.md and follow its instructions.
+```
+
+When you stop, the tutor gives you a progress card. Save it, and paste it into a new chat next
+time to carry on.
+
+## Start on your computer, with files
+
+This repository is for learners who'd rather keep courses and progress as files on their
+computer. You need [git](https://git-scm.com/downloads) and an AI command-line tool, such as
 [Claude Code](https://claude.com/claude-code), Codex or Gemini CLI.
 
 ```sh
