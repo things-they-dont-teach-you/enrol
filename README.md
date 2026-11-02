@@ -19,7 +19,7 @@ No downloads needed. Paste this into Claude, ChatGPT, Gemini or a similar app, o
 computer:
 
 ```
-Be my tutor. Please read https://things-they-dont-teach-you.github.io/start.md and follow its instructions.
+Be my tutor. Please read https://things-they-dont-teach-you.github.io/start.html and follow its instructions.
 ```
 
 When you stop, the tutor gives you a progress card. Save it, and paste it into a new chat next
