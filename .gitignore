@@ -1,0 +1,7 @@
+# Courses the learner downloads, and their profile, live in this folder but are never committed.
+/*
+!/.gitignore
+!/AGENTS.md
+!/CLAUDE.md
+!/GEMINI.md
+!/README.md
