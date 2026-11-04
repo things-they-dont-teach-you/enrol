@@ -1,6 +1,6 @@
 # Things They Don't Teach You in School
 
-Free courses on the practical things school skipped: tax, money, politics, health, nutrition.
+Free courses on the practical things school skipped: tax, money, investing, politics, health, nutrition.
 An AI assistant asks what you need, downloads only the courses that apply to you and your
 country, then tutors you through them.
 
