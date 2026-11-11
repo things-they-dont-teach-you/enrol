@@ -1,12 +1,13 @@
 # Things They Don't Teach You in School
 
-Free courses on the practical things school skipped: tax, money, investing, politics, health, nutrition.
+Free courses on the practical things school skipped: tax, money, investing, your rights, wellbeing and more.
 An AI assistant asks what you need, downloads only the courses that apply to you and your
 country, then tutors you through them.
 
 > [!WARNING]
-> **Under development. Do not rely on these courses yet.** They have not been reviewed by
-> qualified professionals and may contain mistakes.
+> **Beta.** Each course has a status: `planned` (not written yet), `draft` (written, not yet
+> reviewed by a qualified professional, so may contain mistakes; don't rely on it for real
+> decisions) or `published` (reviewed).
 >
 > **Are you a tax practitioner, financial adviser, dietitian, doctor or other professional?**
 > We're looking for people to review lessons in their field.
