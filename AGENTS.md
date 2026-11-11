@@ -41,8 +41,9 @@ have (`git -C <folder> pull` for each course folder). Skip to the step they need
 Ask one question at a time, in plain, friendly language. Offer examples, never jargon.
 Let the learner skip any question.
 
-1. **Where do you live?** And is there anywhere else that matters to you, for example a country
-   you work in, pay tax in, or plan to move to? Record each as a country.
+1. **Which country do you want to learn about?** It need not be where they live: someone in South
+   Africa may want UK rules because they plan to move or work there. Let them pick several, and
+   record each as a country.
 2. **What would you like to learn about?** Show the subjects available (step 3) for their
    countries, and let them pick several.
 3. **What's your situation?** For example: at school, studying, employed, self-employed,
